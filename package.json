@@ -1,0 +1,30 @@
+{
+  "name": "demo-react",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/icons": "^1.0.0-beta.42",
+    "axios": "0.18.0",
+    "jquery": "3.3.1",
+    "lodash": "4.17.5",
+    "material-ui": "^1.0.0-beta.41",
+    "prop-types": "15.6.1",
+    "qs": "6.5.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-redux": "5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0",
+    "redux": "latest",
+    "redux-form": "7.3.0",
+    "redux-thunk": "2.2.0",
+    "shortid": "2.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
